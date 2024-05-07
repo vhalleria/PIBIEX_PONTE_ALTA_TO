@@ -6,5 +6,5 @@
 </h4>
 
 <p align="left">
-Seguindo padrões MVC (Model-View-Controller)
+Seguindo o MVC - Model, View, Controle (Modelo, visão e Controlador) que é um padrão de arquitetura de software que separa a informação (e as regras de negócio) da interface com a qual o usuário interage. SEGURANÇA e FACILIDADE EM MANUTENÇÃO.
 </p>
