@@ -17,7 +17,8 @@ O controller é responsável pela comunicação entre o View e o Model. Para cad
 
 </p>
 
-# Curso GRATUITO de Laravel 10.x
+
+# Projeto
 
 Links Úteis:
 
@@ -33,7 +34,7 @@ git clone https://github.com/vhalleria/PIBIEX_PONTE_ALTA_TO.git PIBIEX_PONTE_ALT
 ```
 
 ```sh
-cd laravel-10/
+cd PIBIEX_PONTE_ALTA_TO
 ```
 
 Crie o Arquivo .env
